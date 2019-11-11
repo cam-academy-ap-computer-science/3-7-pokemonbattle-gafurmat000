@@ -1,0 +1,13 @@
+Total Grade: 24/25
+
+Correct Output: 10/10
+User Interface: 5/5
+Return Values:  3/3
+Parameters:     3/3
+Pseudocode:     2/2
+Style Guide:    1/2
+
+Great work!
+
+One point off because, according to the style guidelines, method names should start with a lowercase letter, so they are
+easy to differentiate from class names.  Your indents also went a little bit off in battleStart().
